@@ -15,7 +15,7 @@ BlueGhost 项目开源仓库。
 
 ### 协议
 
-本项目采用 CC0-A 协议，详见仓库中的[协议文件](LICENSE)。
+本项目采用 CC0-A 协议，详见仓库中的协议文件。
 
 ### 署名建议（非强制）
 
@@ -25,6 +25,10 @@ BlueGhost 项目开源仓库。
 
 欢迎通过 Issue 或 Pull Request 参与贡献。
 
+### 说明
+
+本项目大部分由 AI 生成。
+
 ---
 
 ## English
@@ -33,7 +37,7 @@ Open-source repository for the BlueGhost project.
 
 ### License
 
-This project is licensed under the CC0-A License. See the [License File](LICENSE) for details.
+This project is licensed under the CC0-A License. See the License File for details.
 
 ### Attribution (Optional)
 
@@ -42,3 +46,7 @@ For open-source usage, it is suggested to attribute as "XXX by XXX".
 ### Contributing
 
 Contributions via Issues or Pull Requests are welcome.
+
+### Note
+
+This project is mostly AI-generated.
